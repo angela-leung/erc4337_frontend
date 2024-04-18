@@ -33,4 +33,5 @@ yarn dev
 ## Routes
 
 - `/` - Login / registration page
-- `/admin` - Admin dashboard
+- `/dashboard` - User dashboard page
+- `/admin` - Admin Login / Dashboard
